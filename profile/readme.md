@@ -1,16 +1,13 @@
 # Hi! Welcome to docsforadobe! 👋
 
-> [!WARNING]
-> This Github org will be renamed from `aenhancers` to `docsforadobe` near the end of 2023.
-
 We're an independent community of artists & developers focused on Adobe Creative Cloud extensibility.
 
 Check out our main [📃 scripting guide directory](https://docsforadobe.dev)! Want to contribute? PRs & issues very welcome! ⚡
 
 Scripting guides aside, our largest projects are:
 
-* [types-for-adobe](https://github.com/aenhancers/Types-for-Adobe), working towards complete type coverage of Creative Cloud applications across versions
-* [aequery](https://github.com/aenhancers/aequery), a jquery-like helper library for After Effects scripting.
+* [types-for-adobe](https://github.com/docsforadobe/Types-for-Adobe), working towards complete type coverage of Creative Cloud applications across versions
+* [aequery](https://github.com/docsforadobe/aequery), a jquery-like helper library for After Effects scripting.
 
 Have questions, comments, or concerns? [Email us](hi@docsforadobe.dev)!
 
