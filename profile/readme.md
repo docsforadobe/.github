@@ -9,7 +9,7 @@ Scripting guides aside, our largest projects are:
 * [types-for-adobe](https://github.com/docsforadobe/Types-for-Adobe), working towards complete type coverage of Creative Cloud applications across versions
 * [aequery](https://github.com/docsforadobe/aequery), a jquery-like helper library for After Effects scripting.
 
-Have questions, comments, or concerns? [Email us](hi@docsforadobe.dev)!
+Have questions, comments, or concerns? [Email us](mailto:hi@docsforadobe.dev)!
 
 ---
 
